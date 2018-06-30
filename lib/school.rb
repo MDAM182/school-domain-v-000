@@ -14,6 +14,6 @@ class School
     end
   end
   def grade(grade)
-    @student_name[grade]
+    @student_name
   end
 end
