@@ -1,4 +1,4 @@
 class School
-  e initialize
+   initialize
   school = School.new("Bayside High School")
 end
