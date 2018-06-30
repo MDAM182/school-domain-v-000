@@ -13,7 +13,7 @@ class School
       @roster[grade] << student_name
     end
   end
-  def grade(grad
-    @student_name[grade]= []
+  def grade(grade0
+    @student_name[grade] = []
   end
 end
