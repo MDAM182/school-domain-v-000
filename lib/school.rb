@@ -17,10 +17,10 @@ class School
      roster[student_grade]
    end
 
-   def sort  
+   def sort
      sorted = {}
-     roster.each do |grade, students| 
-       sorted[grade] = students.sort 
+     roster.each do |grade, students|
+       sorted[grade] = students.sort
      end
-     sorted 
+     sorted
  end
